@@ -1,4 +1,7 @@
-## Hi there 👋
+## About Me
+
+I am a Junior in the Computer Science program at BYU.
+Right now I am working as a Research Assistant in the Internet Measurement & Anti-Abuse Lab, led by Dr. Casey Deccio.
 
 <!--
 **Joseph-Christensen/Joseph-Christensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
